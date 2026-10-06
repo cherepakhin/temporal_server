@@ -3,3 +3,4 @@
 docker-compose/.gigaide
 temporial_server/.idea/
 /docker-compose/.gigaide/gigaide.properties
+*.iml

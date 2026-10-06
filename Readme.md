@@ -34,3 +34,4 @@ Starting temporal-ui            ... done
 
 ![temporal_task_detail.png](doc/temporal_task_detail.png)
 
+Примеры Temporal в [https://github.com/temporalio/samples-java.git](https://github.com/temporalio/samples-java.git)
