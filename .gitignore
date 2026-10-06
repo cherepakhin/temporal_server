@@ -1,4 +1,4 @@
-.gigaide
+.gigaide/
 .idea
 docker-compose/.gigaide
 temporial_server/.idea/
